@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shivamvr.github.io/shivamvr.github.io/static/css/main.51a119f0.css",
+    "main.js": "/shivamvr.github.io/shivamvr.github.io/static/js/main.cc32d990.js",
+    "static/media/address.png": "/shivamvr.github.io/shivamvr.github.io/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/shivamvr.github.io/shivamvr.github.io/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/shivamvr.github.io/shivamvr.github.io/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/shivamvr.github.io/shivamvr.github.io/index.html",
+    "main.51a119f0.css.map": "/shivamvr.github.io/shivamvr.github.io/static/css/main.51a119f0.css.map",
+    "main.cc32d990.js.map": "/shivamvr.github.io/shivamvr.github.io/static/js/main.cc32d990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a119f0.css",
+    "static/js/main.cc32d990.js"
+  ]
+}
