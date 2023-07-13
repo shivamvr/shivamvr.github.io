@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shivamvr.github.io/static/css/main.51a119f0.css",
-    "main.js": "/shivamvr.github.io/static/js/main.3eec6da3.js",
-    "static/media/address.png": "/shivamvr.github.io/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/shivamvr.github.io/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/phone.png": "/shivamvr.github.io/static/media/phone.d90a6d23cf5129d853bb.png",
+    "main.css": "/shivamvr.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/shivamvr.github.io/static/js/main.111d3e81.js",
+    "static/js/787.5480e000.chunk.js": "/shivamvr.github.io/static/js/787.5480e000.chunk.js",
+    "static/media/logo.svg": "/shivamvr.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/shivamvr.github.io/index.html",
-    "main.51a119f0.css.map": "/shivamvr.github.io/static/css/main.51a119f0.css.map",
-    "main.3eec6da3.js.map": "/shivamvr.github.io/static/js/main.3eec6da3.js.map"
+    "main.073c9b0a.css.map": "/shivamvr.github.io/static/css/main.073c9b0a.css.map",
+    "main.111d3e81.js.map": "/shivamvr.github.io/static/js/main.111d3e81.js.map",
+    "787.5480e000.chunk.js.map": "/shivamvr.github.io/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51a119f0.css",
-    "static/js/main.3eec6da3.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.111d3e81.js"
   ]
 }
